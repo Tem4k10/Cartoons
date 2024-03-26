@@ -1,0 +1,217 @@
+body,
+h2,
+p {
+    padding: 0;
+    margin: 0;
+    background-color: #d7cdc5;
+    color: black;
+}
+
+a {
+    text-decoration: none;
+}
+
+.container {
+    margin: 0 auto;
+    width: 1280px;
+}
+
+span {
+    border: 1px solid #000;
+    border-radius: 100px;
+    width: 74px;
+    height: 74px;
+    font-weight: 400;
+    font-size: 38px;
+    color: #101010;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-right: 50px;
+}
+
+.title {
+    font-weight: 400;
+    font-size: 35px;
+    line-height: 130%;
+    letter-spacing: 0.03em;
+    color: #101010;
+    padding-bottom: 30px;
+    margin-top: 25px;
+}
+
+.mikki-maus {
+    padding: 100px 0px;
+
+}
+
+.mikki-maus-container {
+    display: flex;
+    gap: 107px;
+}
+
+.mikki-maus-text {
+    display: flex;
+    font-weight: 400;
+    font-size: 19px;
+    line-height: 189%;
+    color: #101010;
+    text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+    align-items: center;
+}
+
+.mikki-maus-link {
+    border-radius: 8px;
+    padding: 10px 20px;
+    background-color: #b99fea;
+    display: inline-block;
+    font-size: 16px;
+    line-height: 138%;
+    color: #000;
+}
+
+.mikki-maus {
+    padding: 100px 0px;
+
+}
+
+.mikki-maus-container {
+    display: flex;
+    gap: 107px;
+}
+
+
+.mikki-maus-link {
+    border-radius: 8px;
+    padding: 10px 20px;
+    background-color: #b99fea;
+    display: inline-block;
+    font-size: 16px;
+    line-height: 138%;
+    color: #000;
+    margin-top: 50px;
+}
+
+.mikki-maus-span {
+    background-color: #b99fea;
+    margin-left: 50px;
+
+}
+
+.koko {
+    padding: 100px 0px;
+
+}
+
+.koko-container {
+    display: flex;
+    gap: 107px;
+}
+
+.koko-text {
+    display: flex;
+    font-weight: 400;
+    font-size: 19px;
+    line-height: 189%;
+    color: #101010;
+    text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+    align-items: center;
+}
+
+.koko-link {
+    border-radius: 8px;
+    padding: 10px 20px;
+    background-color: #EBA789;
+    display: inline-block;
+    font-size: 16px;
+    line-height: 138%;
+    color: #000;
+    margin-top: 50px;
+}
+
+.koko-span {
+    background-color: #EBA789;
+}
+
+.vayana {
+    padding: 100px 0px;
+
+}
+
+.vayana-container {
+    display: flex;
+    gap: 107px;
+}
+
+.vayana-text {
+    display: flex;
+    font-weight: 400;
+    font-size: 19px;
+    line-height: 189%;
+    color: #101010;
+    text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+    align-items: center;
+}
+
+.vayana-link {
+    border-radius: 8px;
+    padding: 10px 20px;
+    background-color: #96DBC6;
+    display: inline-block;
+    font-size: 16px;
+    line-height: 138%;
+    color: #000;
+    margin-top: 50px;
+}
+
+.vayana-span {
+    background-color: #96DBC6;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.maus-images koko-images vayana-images {
+    border-radius: 12px;
+    width: 518px;
+    height: 500px;
+}
+
+.koko-button {
+    border-radius: 8px;
+    padding: 10px 20px;
+    width: 183px;
+    height: 43px;
+    background: #eba789;
+}
+
+.vayana-button {
+    border-radius: 8px;
+    padding: 10px 20px;
+    width: 183px;
+    height: 43px;
+    background: #96dbc6;
+}
